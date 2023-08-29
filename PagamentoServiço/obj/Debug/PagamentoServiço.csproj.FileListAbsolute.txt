@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\PagamentoServiço\PagamentoServiço\bin\Debug\PagamentoServiço.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\PagamentoServiço\PagamentoServiço\bin\Debug\PagamentoServiço.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\PagamentoServiço\PagamentoServiço\bin\Debug\PagamentoServiço.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\PagamentoServiço\PagamentoServiço\obj\Debug\PagamentoServiço.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\PagamentoServiço\PagamentoServiço\obj\Debug\PagamentoServiço.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\PagamentoServiço\PagamentoServiço\obj\Debug\PagamentoServiço.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\PagamentoServiço\PagamentoServiço\obj\Debug\PagamentoServiço.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\PagamentoServiço\PagamentoServiço\obj\Debug\PagamentoServiço.pdb
